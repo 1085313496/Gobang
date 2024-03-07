@@ -1,0 +1,27 @@
+https://blog.csdn.net/weixin_42360323/article/details/80572992
+
+总体思路：
+        把图先画在bitmap上，每次都通过drawimage将bitmap传到显示设备，双缓存的graphics不用每次都create一个，这样会闪烁，
+		解决方法是定义一个全局的BufferedGraphics graphBuffer，然后在每次画的时候取缓冲区内的graphics。
+
+具体步骤：
+1. 定义一个全局的BufferedGraphics graphBuffer，初始化语句为（写在初始化函数内）：
+        graphBuffer = (new BufferedGraphicsContext()).Allocate(this.CreateGraphics(), this.DisplayRectangle);
+       
+2.创建bitmap（从第2步开始，在绘图函数内进行，例如：private void Form1_Paint(object sender, PaintEventArgs e)）
+     Bitmap b = new Bitmap(this.DisplayRectangle.Width,this.DisplayRectangle.Height);
+
+3. 新建Graphic与Bitmap绑定     
+    Graphics g = Graphics.FromImage((System.Drawing.Image)b);
+
+4. 绘图，调用g绘图即可，例如：
+        g.DrawLine(new Pen(Color.Red, 2), new Point(0,0), new Point(10,10));
+
+5. 调用缓冲区内的Graphic，用于绘制Bitmap图(需要先清空之前的画布，最后需要Render)：
+
+     Graphics diaplayGraphic= this.graphBuffer.Graphics;
+     diaplayGraphic.Clear(this.BackColor);
+     diaplayGraphic.DrawImage(b, 0, 0);
+      this.graphBuffer.Render();
+
+至此，已经可以解决闪烁问题。

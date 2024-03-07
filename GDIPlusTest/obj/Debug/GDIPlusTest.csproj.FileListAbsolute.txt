@@ -1,0 +1,40 @@
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.exe.config
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.Form1.resources
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.Properties.Resources.resources
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.csproj.GenerateResource.Cache
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.exe
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.pdb
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.exe
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.pdb
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\TOL.yfhntCts.ToastTips.resources
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.PlayerExample.resources
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.csprojResolveAssemblyReference.cache
+E:\File\file\Code test\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\FIM.Logo_CustomPainted.resources
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.exe.config
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.exe
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.pdb
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.csproj.AssemblyReference.cache
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.Form1.resources
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\FIM.Logo_CustomPainted.resources
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.PlayerExample.resources
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.Properties.Resources.resources
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\TOL.yfhntCts.ToastTips.resources
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.csproj.GenerateResource.cache
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.csproj.CoreCompileInputs.cache
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.exe
+F:\File\Files\CodeTest\vs test\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.pdb
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.exe.config
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.exe
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.pdb
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.exe
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.pdb
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.csprojResolveAssemblyReference.cache
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.Form1.resources
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\FIM.Logo_CustomPainted.resources
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.PlayerExample.resources
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.Properties.Resources.resources
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\TOL.yfhntCts.ToastTips.resources
+E:\File_Private\CodeTest\DNetVS\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.csproj.GenerateResource.Cache
+E:\File_Private\Code\dNetCode\GDIPlusTest\GDIPlusTest\bin\Debug\GDIPlusTest.exe.config
+E:\File_Private\Code\dNetCode\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.exe
+E:\File_Private\Code\dNetCode\GDIPlusTest\GDIPlusTest\obj\Debug\GDIPlusTest.pdb
